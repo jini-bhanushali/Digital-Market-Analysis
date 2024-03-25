@@ -42,11 +42,7 @@ The dataset covers the period from January 1, 2013, to December 31, 2013, and co
 
 ## Business Insights
 
-- **Acme Dominance:** Acme website dominates in activity and sales; other websites should strategize to increase their contribution.
-- **Sales Trends:** Year-end sales surge suggests the importance of capitalizing on festive seasons for increased revenue.
-- **Customer Behavior:** Returning customers play a significant role in sales; efforts should be made to attract and retain new customers.
-- **Conversion Optimization:** Implement measures to improve conversion rates, such as reminder notifications for abandoned carts.
-
+- Collective insights received from the visualization on the data will be that Acme website has the most activity. All the trends found out further are mostly influenced by the behavior of Acme hence it can be said that this particular website will see more or else the same trends. We observe that other websites are not contributing much and hence strategies should be developed in order to make other sites equally active. We also saw that during the end of the year the sales are maximum and an increase in sales is also observed. The websites should make sure to work more in the first half to increase the sales. Customer behavior is also observed here and seen that people indulge in more shopping during the year end. New customers are rare, most of them that add to sales are the old or returning customers. The websites should be marketed enough so that new users are aware about them. There is a possibility that the customers forget the products in the cart and don’t end up buying. Orders are much less than the items that are actually present in the cart. This can be solved by sending frequent reminders. In depth analysis and insights for each visualization are provided in the report with some recommendations from my end.
 Detailed insights and recommendations for each visualization are provided, offering valuable insights into consumer behavior and market trends.
 
 ---
